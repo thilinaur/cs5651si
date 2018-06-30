@@ -1,0 +1,80 @@
+"What is your
+ gender ?","What is your
+ age ?","Do you drink water, 
+as soon as you get up 
+in the morning as a 
+habit ? ","Do you keep a 
+cup/bottle of water 
+on your desk to sip 
+on while you 
+work ?","Do you wait until 
+you are thirsty 
+to drink water ?","Do you drink milk
+ or fruit juice 
+daily ? ","Do you Exercise 
+or work out 
+regularly?  ","Approximately 
+how many glasses 
+of water do you 
+drink per day ?","Mark from 
+xxx(male + female)","Mark from 
+xxx(male )","Mark from 
+xxx ( female )",Total_more_than_65,Males_more_than_65,Females_more_than_65
+Male,20 - 30,Yes,Yes,No,No,No,6,85,85,0,1,1,0
+Male,20 - 30,No,Yes,Yes,No,No,5,45,45,0,0,0,0
+Female,20 - 30,No,Yes,Yes,No,No,3,35,0,35,0,0,0
+Female,20 - 30,No,No,Yes,No,No,3,15,0,15,0,0,0
+Male,20 - 30,Yes,Yes,No,No,No,8,90,90,0,1,1,0
+Female,20 - 30,Yes,Yes,No,No,No,5,75,0,75,1,0,1
+Male,20 - 30,No,Yes,Yes,Yes,Yes,6,45,45,0,0,0,0
+Male,20 - 30,No,Yes,Yes,Yes,Yes,3,25,25,0,0,0,0
+Male,20 - 30,Yes,Yes,No,No,Yes,8,70,70,0,1,1,0
+Female,20 - 30,No,Yes,Yes,Yes,Yes,7,48,0,48,0,0,0
+Female,20 - 30,Yes,Yes,No,Yes,Yes,6,75,0,75,1,0,1
+Female,20 - 30,No,Yes,No,No,No,5,65,0,65,0,0,0
+Male,20 - 30,Yes,Yes,Yes,Yes,No,5,65,65,0,0,0,0
+Female,20 - 30,No,Yes,No,No,No,6,75,0,75,1,0,1
+Female,20 - 30,Yes,Yes,Yes,No,No,5,55,0,55,0,0,0
+Male,20 - 30,Yes,Yes,Yes,No,No,7,68,68,0,1,1,0
+Female,20 - 30,No,No,Yes,Yes,No,5,35,0,35,0,0,0
+Female,30 - 40,Yes,No,No,Yes,Yes,6,55,0,55,0,0,0
+Male,20 - 30,No,Yes,Yes,No,No,6,55,55,0,0,0,0
+Male,20 - 30,Yes,Yes,No,No,No,6,85,85,0,1,1,0
+Male,30 - 40,No,Yes,Yes,No,No,3,35,35,0,0,0,0
+Male,20 - 30,Yes,Yes,No,Yes,Yes,5,65,65,0,0,0,0
+Female,20 - 30,Yes,Yes,No,No,No,5,75,0,75,1,0,1
+Male,20 - 30,No,Yes,Yes,Yes,No,6,65,65,0,0,0,0
+Male,20 - 30,No,No,Yes,Yes,No,6,45,45,0,0,0,0
+Male,20 - 30,No,Yes,No,No,Yes,6,55,55,0,0,0,0
+Male,20 - 30,Yes,Yes,No,No,No,6,85,85,0,1,1,0
+Female,20 - 30,No,Yes,Yes,No,No,5,45,0,45,0,0,0
+Female,20 - 30,No,Yes,Yes,Yes,No,6,65,0,65,0,0,0
+Male,20 - 30,Yes,Yes,No,No,No,6,85,85,0,1,1,0
+Male,20 - 30,No,Yes,No,No,Yes,8,60,60,0,0,0,0
+Female,20 - 30,No,Yes,No,Yes,No,5,75,0,75,1,0,1
+Male,20 - 30,Yes,No,No,No,No,7,68,68,0,1,1,0
+Male,20 - 30,No,Yes,Yes,Yes,Yes,5,35,35,0,0,0,0
+Male,20 - 30,No,No,Yes,Yes,No,6,45,45,0,0,0,0
+Male,20 - 30,No,Yes,Yes,Yes,No,6,65,65,0,0,0,0
+Male,20 - 30,Yes,Yes,No,Yes,Yes,8,80,80,0,1,1,0
+Male,20 - 30,No,Yes,Yes,Yes,No,6,65,65,0,0,0,0
+Male,20 - 30,Yes,No,Yes,Yes,No,4,40,40,0,0,0,0
+Male,20 - 30,No,Yes,No,Yes,No,8,90,90,0,1,1,0
+Male,30 - 40,No,Yes,Yes,No,No,6,55,55,0,0,0,0
+Male,20 - 30,No,Yes,No,Yes,Yes,3,45,45,0,0,0,0
+Male,20 - 30,Yes,No,No,No,No,8,70,70,0,1,1,0
+Male,20 - 30,No,Yes,Yes,Yes,No,8,70,70,0,1,1,0
+Female,20 - 30,No,Yes,No,Yes,No,7,88,0,88,1,0,1
+Male,20 - 30,No,No,No,Yes,No,5,55,55,0,0,0,0
+Male,20 - 30,Yes,No,Yes,Yes,No,6,55,55,0,0,0,0
+Male,20 - 30,Yes,Yes,No,No,No,8,90,90,0,1,1,0
+Male,20 - 30,Yes,No,Yes,No,No,4,30,30,0,0,0,0
+Male,20 - 30,No,Yes,No,Yes,No,4,70,70,0,1,1,0
+Male,20 - 30,Yes,Yes,Yes,No,No,8,70,70,0,1,1,0
+Male,20 - 30,No,Yes,Yes,No,No,5,45,45,0,0,0,0
+Male,20 - 30,Yes,Yes,Yes,No,No,4,50,50,0,0,0,0
+Female,20 - 30,No,Yes,Yes,Yes,Yes,4,30,0,30,0,0,0
+Male,20 - 30,No,No,Yes,No,No,3,15,15,0,0,0,0
+Male,20 - 30,Yes,Yes,Yes,No,No,8,70,70,0,1,1,0
+Female,20 - 30,No,Yes,Yes,Yes,No,6,65,0,65,0,0,0
+Male,20 - 30,No,Yes,Yes,No,Yes,4,20,20,0,0,0,0
